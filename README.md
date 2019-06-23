@@ -43,6 +43,28 @@ I worked as **Trainee** in RCPL Noida, where I learned to develop Android Applic
 
 **LinkedIn : 120+ Endorsements** https://www.linkedin.com/in/shivam-varshney-ab7344140/
 
+<html>
+<body>
+
+<a href="https://www.linkedin.com/in/shivam-varshney-ab7344140/">
+  <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" >
+</a>
+
+<a href="https://github.com/shivam990">
+  <img src="https://img.icons8.com/bubbles/100/000000/github.png" >
+</a>
+
+<a href="https://www.instagram.com/shivam_swagum/">
+  <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" >
+</a>
+
+<a href="https://www.facebook.com/shivam.varshney.5011516">
+  <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" >
+</a>
+
+</body>
+</html>
+
 # Wanna Know more about me ?
 
 Visit to my linkedIn profile to see my education, experience, projects, certifications, achievements and people recommendations about me
