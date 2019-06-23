@@ -47,7 +47,7 @@ I worked as **Trainee** in RCPL Noida, where I learned to develop Android Applic
 <body>
 
 <a href="https://www.linkedin.com/in/shivam-varshney-ab7344140/">
-  <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" >
+  <img src="https://user-images.githubusercontent.com/22894197/59981478-73a82f80-9621-11e9-9447-425a2f75e3f7.jpg" >
 </a>
 
 <a href="https://github.com/shivam990">
