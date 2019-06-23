@@ -46,20 +46,23 @@ I worked as **Trainee** in RCPL Noida, where I learned to develop Android Applic
 <html>
 <body>
 
-<a href="https://www.linkedin.com/in/shivam-varshney-ab7344140/">
+<a href="https://www.hackerrank.com/shivam_swagum">
   <img src="https://user-images.githubusercontent.com/22894197/59981478-73a82f80-9621-11e9-9447-425a2f75e3f7.jpg" >
 </a>
 
-<a href="https://github.com/shivam990">
+<a href="https://www.interviewbit.com/profile/shivam_varshney_329">
   <img src="https://user-images.githubusercontent.com/22894197/59981501-ce418b80-9621-11e9-977a-0b6e65c01f4a.jpg" >
 </a>
 
-<a href="https://www.instagram.com/shivam_swagum/">
-  <img src="https://user-images.githubusercontent.com/22894197/59981495-bec24280-9621-11e9-9a09-1e3c5a3d555a.jpg" >
+<a href="https://www.hackerearth.com/@varshney.shivam786">
+  <img src="https://user-images.githubusercontent.com/22894197/59981546-88d18e00-9622-11e9-834b-1c8b138a63e0.jpg" >
 </a>
 
-<a href="https://www.facebook.com/shivam.varshney.5011516">
+<a href="https://www.codechef.com/users/shivam990">
   <img src="https://user-images.githubusercontent.com/22894197/59981491-abaf7280-9621-11e9-9bb0-bde9f676f641.jpg" >
+</a>
+<a href="https://www.linkedin.com/in/shivam-varshney-ab7344140/">
+  <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" >
 </a>
 
 </body>
