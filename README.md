@@ -51,15 +51,15 @@ I worked as **Trainee** in RCPL Noida, where I learned to develop Android Applic
 </a>
 
 <a href="https://github.com/shivam990">
-  <img src="https://img.icons8.com/bubbles/100/000000/github.png" >
+  <img src="https://user-images.githubusercontent.com/22894197/59981501-ce418b80-9621-11e9-977a-0b6e65c01f4a.jpg" >
 </a>
 
 <a href="https://www.instagram.com/shivam_swagum/">
-  <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" >
+  <img src="https://user-images.githubusercontent.com/22894197/59981495-bec24280-9621-11e9-9a09-1e3c5a3d555a.jpg" >
 </a>
 
 <a href="https://www.facebook.com/shivam.varshney.5011516">
-  <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" >
+  <img src="https://user-images.githubusercontent.com/22894197/59981491-abaf7280-9621-11e9-9bb0-bde9f676f641.jpg" >
 </a>
 
 </body>
