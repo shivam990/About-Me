@@ -7,7 +7,7 @@ My name is **Shivam Varshney**. I passed my Engineering in Computer Science from
 
 # What do I do ?
 
-Currently, I'm a **Software Engineer** in Envestnet Yodlee, leading data aggregation and data analytics platform powering dynamic, cloud-based innovation for digital financial services. I love to teach peoples. I used to teach Programming concepts to final and pre-final year students.
+Currently, I'm a **Software Engineer** in Envestnet Yodlee, leading data aggregation and data analytics platform powering dynamic, cloud-based innovation for digital financial services. I love to teach peoples. I used to teach Algorithmic concepts to final and pre-final year students.
 
 I am working as a **Google Assistant Developer**.
 
