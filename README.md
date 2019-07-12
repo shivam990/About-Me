@@ -89,7 +89,7 @@ Download as PDF
 <html>
 <body>
 
-<a href="https://drive.google.com/open?id=15PNC5zxqIjYYS1hYozT6ZkRLgIiJ2c9k">
+<a href="">
   <img src="https://img.icons8.com/clouds/100/000000/resume.png" >
 </a>
 
