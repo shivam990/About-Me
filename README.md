@@ -35,7 +35,7 @@ I worked as **Trainee** in RCPL Noida, where I learned to develop Android Applic
 
 **Hackerrank: 2200+ Points in Algorithmic Section of hackerrank** https://www.hackerrank.com/shivam_swagum
 
-**Interviewbit: 8000+ score in Intreviewbit** https://www.interviewbit.com/profile/shivam_varshney_329
+**Interviewbit: 14000+ score in Intreviewbit** https://www.interviewbit.com/profile/shivam_varshney_329
 
 **Codechef: Solved more than 60 problems.** https://www.codechef.com/users/shivam990
 
