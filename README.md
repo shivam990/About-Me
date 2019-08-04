@@ -23,6 +23,8 @@ I worked as **Trainee** in RCPL Noida, where I learned to develop Android Applic
 
 **Languages :** Python, C++, Java, C, SQL, HTML, CSS, Javascript, Php
 
+**Frameworks :** Bootstrap, Node.js for server-side, Collections etc.
+
 **Libraries :** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, NLTK, Wordnet, OOPs Concept
 
 **Data Analysis :** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics
